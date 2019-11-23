@@ -1,0 +1,58 @@
+
+.row1{
+    width: 100%;
+    height:85px;
+}
+.row1_right{
+    float: right;
+    text-align: center;
+    line-height: 85px;
+    height: 85px;
+}
+#row1_logo{
+    width:200px ;
+    height: 85px;
+}
+a{
+    text-decoration: none;
+    color: darkorange;
+}
+a:hover{
+    text-decoration: underline;
+    color: orange;
+}
+.row2{
+    height: 36px;
+    background: orange;
+    text-align: center;
+}
+.row2 a{
+    text-decoration: none;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    margin-left: 30px;
+}
+.row3{
+    font-family: "Century Gothic";
+    font-weight: lighter;
+    color: white;
+    font-size: 24px;
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    background: darkorange;
+    text-align: center;
+}
+.pannel{
+    width: 1322px;
+    height: 788px;
+    background: #FFEBCC;
+    position: relative;
+    top:72px;
+    left:20%;
+}
+#aa{
+    margin-left: 10px;
+}
